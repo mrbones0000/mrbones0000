@@ -1,58 +1,58 @@
-# ¡Hola! 👋 Soy HIT
+# Hello! 👋 I'm HIT
 
-Soy un desarrollador en constante aprendizaje, apasionado por la programación y la creación de herramientas que aporten valor. Mi enfoque principal es **JavaScript** 💻, aunque también tengo conocimientos de **Python** 🐍 y un gran interés en explorar y dominar la **API de Discord** 🟪.  
+I am a developer constantly learning, passionate about programming and creating tools that add value. My main focus is **JavaScript** 💻, although I also have knowledge of **Python** 🐍 and a strong interest in exploring and mastering the **Discord API** 🟪.  
 
-Mi objetivo es no solo escribir código que funcione, sino entender **cómo y por qué funciona** cada línea. Me gusta experimentar, probar ideas nuevas y enfrentar desafíos que me obliguen a salir de mi zona de confort. Cada proyecto es una oportunidad para aprender, mejorar y documentar mi progreso.  
-
----
-
-## 🔹 Sobre mí
-
-- 🌱 **Aprendizaje continuo**: Cada día busco mejorar mis habilidades en JavaScript, explorando nuevas librerías, frameworks y patrones de diseño.  
-- 🤖 **Discord API**: Me apasiona crear bots, comandos y sistemas que mejoren la experiencia de los usuarios, desde utilidades simples hasta sistemas complejos e interactivos.  
-- 💡 **Creatividad y resolución de problemas**: Disfruto enfrentándome a desafíos lógicos y técnicos, buscando siempre soluciones elegantes y eficientes.  
-- 📚 **Python**: Aunque es secundario, uso Python para automatizaciones, pequeños scripts y proyectos de aprendizaje.  
-- 🤝 **Colaboración y comunidad**: GitHub es para mí un espacio para compartir conocimiento, colaborar en proyectos y recibir feedback constructivo.  
+My goal is not just to write code that works, but to understand **how and why each line works**. I enjoy experimenting, testing new ideas, and facing challenges that push me out of my comfort zone. Every project is an opportunity to learn, improve, and document my progress.  
 
 ---
 
-## 🔹 Mis habilidades
+## 🔹 About Me
 
-- **Lenguajes:** JavaScript (avanzado), Python (básico/intermedio)  
+- 🌱 **Continuous Learning:** I strive to improve my JavaScript skills every day, exploring new libraries, frameworks, and design patterns.  
+- 🤖 **Discord API:** I love building bots, commands, and systems that enhance user experience, from simple utilities to complex, interactive systems.  
+- 💡 **Creativity & Problem Solving:** I enjoy tackling logical and technical challenges, always seeking elegant and efficient solutions.  
+- 📚 **Python:** While secondary, I use Python for automations, small scripts, and learning projects.  
+- 🤝 **Collaboration & Community:** GitHub is my space to share knowledge, collaborate on projects, and receive constructive feedback.  
+
+---
+
+## 🔹 Skills
+
+- **Languages:** JavaScript (advanced), Python (basic/intermediate)  
 - **APIs:** Discord API, RESTful APIs  
-- **Herramientas:** Node.js, Git, GitHub, npm  
-- **Buenas prácticas:** Clean Code, estructuras modulares, documentación de proyectos  
-- **Intereses:** Bots de Discord, automatización, proyectos interactivos  
+- **Tools:** Node.js, Git, GitHub, npm  
+- **Best Practices:** Clean Code, modular structures, project documentation  
+- **Interests:** Discord bots, automation, interactive projects  
 
 ---
 
-## 🔹 Filosofía de trabajo
+## 🔹 Work Philosophy
 
-Creo que la programación no es solo aprender un lenguaje o una API, sino **desarrollar la capacidad de pensar de manera lógica, creativa y estructurada**. Cada proyecto es una oportunidad para:
+I believe programming is not just learning a language or an API, but **developing the ability to think logically, creatively, and structurally**. Every project is an opportunity to:
 
-- Explorar nuevas tecnologías y métodos.  
-- Mejorar mi comprensión del código y su mantenimiento.  
-- Documentar y compartir el proceso de aprendizaje con la comunidad.  
-- Aplicar buenas prácticas que faciliten la colaboración y escalabilidad.  
-
----
-
-## 🔹 Proyectos destacados
-
-Aunque muchos de mis proyectos son personales y experimentales, me gusta compartir aquellos que me han enseñado más y donde he podido aplicar mis conocimientos:
-
-- **Bots de Discord**: Comandos de utilidad, automatización de tareas y sistemas interactivos.  
-- **Scripts de aprendizaje**: Pequeños proyectos en Python para automatizar tareas y reforzar conceptos.  
-- **Experimentación con APIs**: Integraciones de Discord y otras APIs externas para crear herramientas útiles y entretenidas.  
+- Explore new technologies and approaches  
+- Improve code comprehension and maintainability  
+- Document and share the learning process with the community  
+- Apply best practices that enhance collaboration and scalability  
 
 ---
 
-## 🔹 Mi objetivo
+## 🔹 Featured Projects
 
-Seguir creciendo como desarrollador, aprendiendo nuevas tecnologías y mejorando continuamente mis proyectos. Estoy abierto a **colaborar, recibir feedback y participar en iniciativas que me reten a mejorar** tanto técnica como creativamente.  
+Although many of my projects are personal and experimental, I like to share the ones that taught me the most and where I applied my knowledge:
 
-📫 **Contacto:** Siempre estoy dispuesto a conectar con otros desarrolladores, compartir conocimientos o trabajar en proyectos interesantes.  
+- **Discord Bots:** Utility commands, task automation, and interactive systems  
+- **Learning Scripts:** Small Python projects to automate tasks and reinforce concepts  
+- **API Experiments:** Discord and external API integrations to build useful and fun tools  
 
 ---
 
-Gracias por visitar mi perfil, ¡espero que mis proyectos y aprendizajes te resulten interesantes! 🌟
+## 🔹 My Goal
+
+To continue growing as a developer, learning new technologies, and constantly improving my projects. I am open to **collaboration, feedback, and participating in initiatives that challenge me to grow both technically and creatively**.  
+
+📫 **Contact:** I am always open to connecting with other developers, sharing knowledge, or working on interesting projects.  
+
+---
+
+Thank you for visiting my profile! I hope my projects and learning journey inspire and interest you. 🌟
