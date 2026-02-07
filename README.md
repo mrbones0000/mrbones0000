@@ -1,58 +1,77 @@
-# Hello! 👋 I'm HIT
+# 👋🏻 Hey,
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 
-I am a developer constantly learning, passionate about programming and creating tools that add value. My main focus is **JavaScript** 💻, although I also have knowledge of **Python** 🐍 and a strong interest in exploring and mastering the **Discord API** 🟪.  
+# I am Hrishikesh , HRISHIKESH-CODER . 
+## I am a programmer
 
-My goal is not just to write code that works, but to understand **how and why each line works**. I enjoy experimenting, testing new ideas, and facing challenges that push me out of my comfort zone. Every project is an opportunity to learn, improve, and document my progress.  
+- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I am proficient in Django, a web development framework. I also know a bit of machine learning and AI . <br>
+- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in Java . 
+- <img src="https://cdn.svgporn.com/logos/aws.svg" width=30 height=30>  I also like AWS, Amazon Web Services<br>
+- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br>
 
----
+## My Tech Stack
 
-## 🔹 About Me
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+	      <span><strong>Python</strong></span><br><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+      </td>
+      <td width="25%" align="center">
+	      <span><strong>AWS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Java</strong></span><br><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Django</strong></span><br><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
+      </td>
+     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>CSS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Html 5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Vs Code</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
 
-- 🌱 **Continuous Learning:** I strive to improve my JavaScript skills every day, exploring new libraries, frameworks, and design patterns.  
-- 🤖 **Discord API:** I love building bots, commands, and systems that enhance user experience, from simple utilities to complex, interactive systems.  
-- 💡 **Creativity & Problem Solving:** I enjoy tackling logical and technical challenges, always seeking elegant and efficient solutions.  
-- 📚 **Python:** While secondary, I use Python for automations, small scripts, and learning projects.  
-- 🤝 **Collaboration & Community:** GitHub is my space to share knowledge, collaborate on projects, and receive constructive feedback.  
+  </tbody>
+</table>
 
----
+![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api/?username=hrishikesh-coder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br>
 
-## 🔹 Skills
+  <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
+    <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="mailto:hrishipotter123@gmail.com">
+    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  
+<br>
 
-- **Languages:** JavaScript (advanced), Python (basic/intermediate)  
-- **APIs:** Discord API, RESTful APIs  
-- **Tools:** Node.js, Git, GitHub, npm  
-- **Best Practices:** Clean Code, modular structures, project documentation  
-- **Interests:** Discord bots, automation, interactive projects  
+![VisitorCount](https://profile-counter.glitch.me/hrishikesh-coder/count.svg)
 
----
+<br><br><br><br>
 
-## 🔹 Work Philosophy
+# THAT'S ME !
 
-I believe programming is not just learning a language or an API, but **developing the ability to think logically, creatively, and structurally**. Every project is an opportunity to:
-
-- Explore new technologies and approaches  
-- Improve code comprehension and maintainability  
-- Document and share the learning process with the community  
-- Apply best practices that enhance collaboration and scalability  
-
----
-
-## 🔹 Featured Projects
-
-Although many of my projects are personal and experimental, I like to share the ones that taught me the most and where I applied my knowledge:
-
-- **Discord Bots:** Utility commands, task automation, and interactive systems  
-- **Learning Scripts:** Small Python projects to automate tasks and reinforce concepts  
-- **API Experiments:** Discord and external API integrations to build useful and fun tools  
-
----
-
-## 🔹 My Goal
-
-To continue growing as a developer, learning new technologies, and constantly improving my projects. I am open to **collaboration, feedback, and participating in initiatives that challenge me to grow both technically and creatively**.  
-
-📫 **Contact:** I am always open to connecting with other developers, sharing knowledge, or working on interesting projects.  
-
----
-
-Thank you for visiting my profile! I hope my projects and learning journey inspire and interest you. 🌟
+⭐️ From [HIT](https://github.com/mrbones0000)
