@@ -8,7 +8,7 @@
 ## Soy programador
 
 - <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width=30 height=30> Tengo amplios conocimientos en **Node.js** y es mi tecnología principal.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=30 height=30> También sé **Python** y disfruto mucho programando con él.
+- <img src="https://www.pngegg.com/es/png-ezmpp" width=30 height=30> También sé **Python** y disfruto mucho programando con él.
 - <img src="https://cdn.svgporn.com/logos/discord-icon.svg" width=30 height=30> Tengo muchos repositorios en mi GitHub, y casi todos están enfocados en la creación de bots y el ecosistema de **Discord**.
 - <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> Siempre estoy construyendo nuevos proyectos y herramientas.
 
