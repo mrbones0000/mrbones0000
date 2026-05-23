@@ -1,18 +1,18 @@
-# 👋🏻 Hola,
+# 👋🏻 Hola, Soy HIT
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-# Soy HIT, mrbones0000.
-## Soy programador
+
+## 🏁 Mis metas
 
 - <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width=30 height=30> Tengo amplios conocimientos en **Node.js** y es mi tecnología principal.
 - <img src="https://cdn.svgporn.com/logos/python.svg" width=30 height=30> También sé **Python** y disfruto mucho programando con él.
 - <img src="https://cdn.svgporn.com/logos/discord-icon.svg" width=30 height=30> Tengo muchos repositorios en mi GitHub, y casi todos están enfocados en la creación de bots y el ecosistema de **Discord**.
 - <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> Siempre estoy construyendo nuevos proyectos y herramientas.
 
-## Mi Stack Tecnológico
+## 🧠 Mis Conocimientos
 
 <table>
   <tbody>
@@ -65,6 +65,6 @@
   
 <br><br><br><br>
 
-# ¡ESE SOY YO!
+# ¡YO!
 
 ⭐️ De [HIT](https://github.com/mrbones0000)
