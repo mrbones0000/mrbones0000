@@ -8,7 +8,7 @@
 ## Soy programador
 
 - <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width=30 height=30> Tengo amplios conocimientos en **Node.js** y es mi tecnología principal.
-- <img src="https://www.pngegg.com/es/png-ezmpp" width=30 height=30> También sé **Python** y disfruto mucho programando con él.
+- <img src="https://cdn.svgporn.com/logos/python.svg" width=30 height=30> También sé **Python** y disfruto mucho programando con él.
 - <img src="https://cdn.svgporn.com/logos/discord-icon.svg" width=30 height=30> Tengo muchos repositorios en mi GitHub, y casi todos están enfocados en la creación de bots y el ecosistema de **Discord**.
 - <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> Siempre estoy construyendo nuevos proyectos y herramientas.
 
@@ -23,7 +23,7 @@
       </td>
       <td width="25%" align="center">
 	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
@@ -37,7 +37,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>CSS 3</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>HTML 5</strong></span><br><br><br>
@@ -55,7 +55,6 @@
   </tbody>
 </table>
 
-![Estadísticas de HIT en GitHub](https://github-readme-stats.vercel.app/api/?username=mrbones0000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
 
 ### 💬 Contáctame
@@ -64,10 +63,6 @@
   &nbsp; <b>Discord:</b> <code>eurpowernedbyhit</code>
 </p>
   
-<br><br>
-
-![VisitorCount](https://profile-counter.glitch.me/mrbones0000/count.svg)
-
 <br><br><br><br>
 
 # ¡ESE SOY YO!
